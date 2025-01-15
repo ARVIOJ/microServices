@@ -4,6 +4,8 @@
 https://www.ldhmsoftware.com/blog/apis-restful/
 
 
+https://restfulapi.net/
+
 ### crear primer api con springboot
 
 https://start.spring.io/
